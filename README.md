@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Chakri</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sri Chakradhar Reddy</h1>
+<h3 align="center">BCA grad | Ex-TCS | Building AI tools with Python & LangChain | Open to AI/ML roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakri944&label=Profile%20views&color=0e75b6&style=flat" alt="chakri944" /> </p>
 
-- 🌱 I’m currently learning **frameworks and python programming language**
+- 🌱 I’m currently building **AI tools with Python & LangChain**
 
-- 📫 How to reach me **Sric225@gmail.com**
+- 📫 How to reach me **Srichakradharreddy91@gmail.com**
 
-- ⚡ Fun fact **Fun is a Fact😂**
+- ⚡ Learning by doing — **one project at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
