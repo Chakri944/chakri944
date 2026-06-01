@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋, I'm Sri Chakradhar Reddy</h1>
 <h3 align="center">BCA grad | Ex-TCS | Building AI tools with Python & LangChain | Open to AI/ML roles</h3>
 
@@ -15,6 +16,7 @@
 <a href="https://instagram.com/mr._.chakri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._.chakri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sric225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sric225" height="30" width="40" /></a>
 </p>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="srichakra944" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/srichakra944?trk=profile-badge">Sri Chakradhar Reddy</a></div>
               
 <h3 align="left">Languages and Tools:</h3>
